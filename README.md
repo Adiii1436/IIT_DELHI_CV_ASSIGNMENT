@@ -7,6 +7,9 @@ This project involves training and fine-tuning the DINO object detection model o
 3. Running the Code
 4. Evaluation and Results
 
+<br>
+Fine Tuned Model Weights: https://drive.google.com/file/d/14IwLeka4MJ3fuM4okBZc_8VWilP1k0QP/view?usp=sharing
+
 ## Dataset
 
 1. The dataset used in this project contains 200 images annotated in COCO format.
@@ -142,6 +145,9 @@ To set up the environment and dependencies, follow these steps:
       plt.grid(True)
       plt.show()
     ```
+
+   ![download (3)](https://github.com/user-attachments/assets/2aec5c58-5595-4bed-ba40-c0d3dbf2caa4)
+
 
 ## Evaluation and Results
 1. Run evaluations on the fine tune model:
